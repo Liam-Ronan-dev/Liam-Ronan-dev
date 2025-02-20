@@ -4,6 +4,10 @@
 
 👋 Hey there! I'm a frontend engineer with a passion for building intuitive and visually engaging web applications. Currently, I'm wrapping up my BSc in Creative Computing at IADT, where I've been blending creativity with technology to craft innovative solutions. I love working with modern web technologies like React, Astro, and TailwindCSS, but I'm always eager to explore new tools and frameworks. Feel free to check out my projects, and let's connect! 🚀
 
+## 🤝 Connect with Me  
+<a href="https://www.linkedin.com/in/liam-ronan-052b22239/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" style="padding-right:10px;">
+</a>
 ---
 # 🧰 Tech Stack & Tools
 
