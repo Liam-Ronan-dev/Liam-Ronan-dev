@@ -8,7 +8,9 @@
 <a href="https://www.linkedin.com/in/liam-ronan-052b22239/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" style="padding-right:10px;">
 </a>
----
+
+<br /><br />
+
 # 🧰 Tech Stack & Tools
 
 ## 🚀 Languages  
