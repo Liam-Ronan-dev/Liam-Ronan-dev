@@ -39,7 +39,7 @@
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://vitest.dev/logo.svg" />
 <img align="left" alt="Playwright" width="30px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg" />
-<img align="left" alt="Supertest" width="100px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/11808736/108441581-84a5a100-7227-11eb-822c-658bd3b4e8d2.png" />
+<img align="left" alt="Supertest" width="100px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/other/Screenshot%202025-02-20%20170828.jpg" />
 <br /><br />
 
 ## ☁️ Cloud & DevOps  
