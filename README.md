@@ -18,7 +18,7 @@
 
 ## 📚 Frameworks & Libraries  
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React Native" width="90px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React_Native_logo.png" />
+<img align="left" alt="React Native" width="90px" style="padding-right:10px;" src="https://github.com/Liam-Ronan-dev/Liam-Ronan-dev/blob/main/Assets/other/Screenshot%202025-02-20%20172808.jpg?raw=true" />
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
@@ -51,6 +51,7 @@
 ## 🔗 Version Control & CI/CD  
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+<img align="left" alt="GitLab" width="30px" style="padding-right:10px;" src="https://github.com/Liam-Ronan-dev/Liam-Ronan-dev/blob/main/Assets/other/Screenshot%202025-02-20%20172901.jpg?raw=true" />
 
 
 
