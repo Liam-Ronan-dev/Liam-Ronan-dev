@@ -18,7 +18,7 @@
 
 ## 📚 Frameworks & Libraries  
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React Native" width="90px" style="padding-right:10px;" src="https://github.com/Liam-Ronan-dev/Liam-Ronan-dev/blob/main/Assets/other/Screenshot%202025-02-20%20172808.jpg?raw=true" />
+<img align="left" alt="React Native" width="30px" style="padding-right:10px;" src="https://github.com/Liam-Ronan-dev/Liam-Ronan-dev/blob/main/Assets/other/Screenshot%202025-02-20%20172808.jpg?raw=true" />
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 <img align="left" alt="Express.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <img align="left" alt="Astro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
@@ -36,7 +36,7 @@
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://vitest.dev/logo.svg" />
 <img align="left" alt="Playwright" width="30px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg" />
-<img align="left" alt="Supertest" width="100px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/other/Screenshot%202025-02-20%20170828.jpg" />
+<img align="left" alt="Supertest" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/other/Screenshot%202025-02-20%20170828.jpg" />
 
 ## ☁️ Cloud & DevOps  
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
