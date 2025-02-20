@@ -15,7 +15,6 @@
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<br /><br />
 
 ## 📚 Frameworks & Libraries  
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -26,21 +25,18 @@
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 <img align="left" alt="Storybook" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
-<br /><br />
 
 ## 🗄️ Databases  
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-<br /><br />
 
 ## 🛠️ Testing Frameworks  
 <img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://vitest.dev/logo.svg" />
 <img align="left" alt="Playwright" width="30px" style="padding-right:10px;" src="https://playwright.dev/img/playwright-logo.svg" />
 <img align="left" alt="Supertest" width="100px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/other/Screenshot%202025-02-20%20170828.jpg" />
-<br /><br />
 
 ## ☁️ Cloud & DevOps  
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
@@ -51,12 +47,10 @@
 <img align="left" alt="AWS Route 53" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/Res_Amazon-Route-53_Resolver-DNS-Firewall_48.svg" />
 <img align="left" alt="AWS ACM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/Arch_AWS-Certificate-Manager_32.svg" />
 <img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-<br /><br />
 
 ## 🔗 Version Control & CI/CD  
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
-<br /><br />
 
 
 
