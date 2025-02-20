@@ -40,11 +40,11 @@
 
 ## ☁️ Cloud & DevOps  
 <img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
-<img align="left" alt="AWS S3" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/Res_Amazon-Simple-Storage-Service_Bucket_48.svg" />
-<img align="left" alt="AWS EC2" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/EC2-instance-contents_32.svg" />
-<img align="left" alt="AWS CloudFront" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/Arch_Amazon-CloudFront_32.svg" />
-<img align="left" alt="AWS Lambda@Edge" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/Arch_AWS-Lambda_32.svg" />
-<img align="left" alt="AWS Route 53" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/refs/heads/main/Assets/Res_Amazon-Route-53_Resolver-DNS-Firewall_48.svg" />
+<img align="left" alt="AWS S3" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/7ea603e62c0f2f89078274319be6aff679e0a935/Assets/AWS/Res_Amazon-Simple-Storage-Service_Bucket_48.svg" />
+<img align="left" alt="AWS EC2" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/7ea603e62c0f2f89078274319be6aff679e0a935/Assets/AWS/EC2-instance-contents_32.svg" />
+<img align="left" alt="AWS CloudFront" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/7ea603e62c0f2f89078274319be6aff679e0a935/Assets/AWS/Arch_Amazon-CloudFront_32.svg" />
+<img align="left" alt="AWS Lambda@Edge" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/7ea603e62c0f2f89078274319be6aff679e0a935/Assets/AWS/Arch_AWS-Lambda_32.svg" />
+<img align="left" alt="AWS Route 53" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/7ea603e62c0f2f89078274319be6aff679e0a935/Assets/AWS/Res_Amazon-Route-53_Resolver-DNS-Firewall_48.svg" />
 <img align="left" alt="AWS ACM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/Liam-Ronan-dev/Liam-Ronan-dev/16f2c7679fd914b0f90a27708e83eea6ace3e1c3/Assets/AWS/Arch_AWS-Certificate-Manager_32.svg" />
 <img align="left" alt="Nginx" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
 
