@@ -1,4 +1,11 @@
-## Hi there 👋
+# 🌐Liam Ronan
+
+**`Frontend engineer`**
+
+👋 Hey there! I'm a frontend engineer with a passion for building intuitive and visually engaging web applications. Currently, I'm wrapping up my BSc in Creative Computing at IADT, where I've been blending creativity with technology to craft innovative solutions. I love working with modern web technologies like React, Astro, and TailwindCSS, but I'm always eager to explore new tools and frameworks. Feel free to check out my projects, and let's connect! 🚀
+
+---
+
 
 <!--
 **Liam-Ronan-dev/Liam-Ronan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
