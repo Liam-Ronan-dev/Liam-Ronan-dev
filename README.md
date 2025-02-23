@@ -1,4 +1,4 @@
-# ✩♬ ₊.🎧⋆☾⋆⁺₊✧ Liam Ronan
+# 𓆝 𓆟 𓆞 𓆝 𓆟 Liam Ronan
 
 **`Frontend engineer`**
 
